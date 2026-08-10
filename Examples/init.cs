@@ -6,12 +6,8 @@ using System;
 // sets the static of imported Class and does not choose namespace
 using static Init.LOGGER;
 
-
 // sets namespace
 namespace Init;
-
-
-
 
 //Logging
 
