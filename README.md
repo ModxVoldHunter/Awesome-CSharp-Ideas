@@ -18,6 +18,6 @@ if you don't already in VSCode Install the C# Dev kit in extensions tab and CSha
 
 [Examples](Examples)
 
-[Projects]()
+[Projects](Projects)
 
-[Generated Projects]()
+[Generated Projects](GeneratedProjects)
