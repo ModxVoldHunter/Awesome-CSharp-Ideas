@@ -26,15 +26,15 @@ public class LOGGER
         switch (log)
         {
             // Log
-            case LOGTYPE.LOG: Console.WriteLine(_Log[0] + message);
+            case LOGTYPE.LOG: Console.WriteLine("LOG: " + message);
                 break;
 
             // Warning
-            case LOGTYPE.WARNING: Console.WriteLine(_Log[1] + message);
+            case LOGTYPE.WARNING: Console.WriteLine("WARNING: " + message);
                 break;
 
             // Error
-            case LOGTYPE.ERROR: Console.WriteLine(_Log[2] + message);
+            case LOGTYPE.ERROR: Console.WriteLine("ERROR: " + message);
                 break;
 
             default:
@@ -43,8 +43,7 @@ public class LOGGER
         }
     }
 
-    // string array, i put it here to make it easier to log, will not be used in real production
-    public static string[] _Log = { "LOG: ", "WARNING: ", "ERROR: " };
+    
     public enum LOGTYPE
     {
         LOG, // Normal Logging
