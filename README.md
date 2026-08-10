@@ -16,7 +16,7 @@ if you don't already in VSCode Install the C# Dev kit in extensions tab and CSha
 
 ### Links
 
-[Examples](https://github.com/ModxVoldHunter/Awesome-CSharp-Ideas/tree/7ba93e82b66c4aece7314dc64be4b5da135adfb8)
+[Examples](Examples)
 
 [Projects]()
 
