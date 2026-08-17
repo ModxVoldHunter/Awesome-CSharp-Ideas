@@ -1,5 +1,5 @@
 
-<h1>IMPORTANT NOTE: AI can make mistakes, im highly against ai being used for coding as AI can touch Binary and other parts of code that are important, in this reguard, i do suggest instead learning so you can catch mistakes later, do not simply copy and paste code until you know how it works</h1>
+<h1>IMPORTANT NOTE: AI can make mistakes, im highly against ai being used for production code as AI can touch Binary and other parts of code that are important, in this reguard, i do suggest instead learning so you can catch mistakes later, do not simply copy and paste code until you know how it works</h1>
 
 # Welcome to Awesome CSharp Ideas!
 
